@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
