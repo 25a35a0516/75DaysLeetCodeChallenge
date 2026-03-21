@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
