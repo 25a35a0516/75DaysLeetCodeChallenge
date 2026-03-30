@@ -143,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
