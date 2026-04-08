@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
