@@ -194,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/0197-rising-temperature) |
+| [1757-recyclable-and-low-fat-products](https://github.com/25a35a0516/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
